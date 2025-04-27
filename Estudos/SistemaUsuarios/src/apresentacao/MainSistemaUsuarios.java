@@ -3,7 +3,7 @@ package apresentacao;
 import controladora.ControladorUsuario;
 import java.util.Scanner;
 
-public class Main {
+public class MainSistemaUsuarios {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ControladorUsuario controlador = new ControladorUsuario();
