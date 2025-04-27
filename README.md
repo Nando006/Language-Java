@@ -1,4 +1,4 @@
-# Sistema de Usuários
+# Estudos em Java
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Estudos%20Pausado-orange)
 
